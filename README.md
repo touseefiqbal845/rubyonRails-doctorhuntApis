@@ -68,7 +68,7 @@ rails server
 
 ## Project Structure
 
-```
+
 DOCTORHUNT-RUBYONRAILS:.
 ├───.github
 │   └───workflows
@@ -125,7 +125,7 @@ DOCTORHUNT-RUBYONRAILS:.
 ├───tmp
 │   ├───cache
 │   │   └───bootsnap
-```
+
 
 ## License
 
