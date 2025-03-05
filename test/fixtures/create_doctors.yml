@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  career: MyString
+  experience: MyString
+  speciality: MyString
+  stories: 
+  rating: 1.5
+  is_favourite: false
+  reviews: 1
+  hour_rate: 9.99
+  time_slot: 
+  details: 
+  is_featured: false
+
+two:
+  name: MyString
+  career: MyString
+  experience: MyString
+  speciality: MyString
+  stories: 
+  rating: 1.5
+  is_favourite: false
+  reviews: 1
+  hour_rate: 9.99
+  time_slot: 
+  details: 
+  is_featured: false
