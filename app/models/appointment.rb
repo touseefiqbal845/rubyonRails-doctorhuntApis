@@ -5,4 +5,3 @@ class Appointment < ApplicationRecord
     validates :time, :date, presence: true
     store_accessor :location
   end
-  
