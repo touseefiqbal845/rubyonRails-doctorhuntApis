@@ -10,7 +10,7 @@ This project includes:
 - **User Authentication**: Secure login and registration for both patients and doctors.
 - **Spring Boot Backend**: RESTful APIs using Spring Boot framework to handle business logic and database interaction.
 - **PostgreSQL Database**: Reliable relational database to store patient, doctor, appointment, and medical record data.
-- **Groovy Scripting**: Groovy is used to dynamically script and enhance functionality, allowing quick changes or new features to be implemented easily.
+- **Groovy Scripting**: Groovy is used to dynamically script and enhance functionality, allowing quick changes or new features to be implemented easily,.
 
 ## Features
 
